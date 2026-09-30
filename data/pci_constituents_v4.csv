@@ -1,0 +1,148 @@
+Ticker,Name,Country,Tag,Industry,MarketCap,InvRatio,PPERatio
+IAG.AX,Insurance Australia Group Limited,Australia,A,Insurance - Property & Casualty,18656864256.0,0.512,0.02
+QBE.AX,QBE Insurance Group Limited,Australia,A,Insurance - Property & Casualty,35946225664.0,0.503,0.006
+SUN.AX,Suncorp Group Limited,Australia,A,Insurance - Property & Casualty,19738157056.0,0.694,0.014
+AGS.BR,ageas SA/NV,Belgium,A,Insurance - Diversified,14112404480.0,0.854,0.028
+ACGL,Arch Capital Group Ltd.,Bermuda,A,Insurance - Diversified,31857344512.0,0.579,
+AGO,Assured Guaranty Ltd.,Bermuda,A,Insurance - Specialty,3388494080.0,0.625,
+AXS,AXIS Capital Holdings Limited,Bermuda,A,Insurance - Specialty,7445308928.0,0.417,0.003
+BNT,Brookfield Wealth Solutions Ltd.,Bermuda,A,Insurance - Diversified,12217874432.0,0.462,0.002
+EG,"Everest Group, Ltd.",Bermuda,A,Insurance - Reinsurance,13281416192.0,0.613,
+ESNT,Essent Group Ltd.,Bermuda,A,Insurance - Specialty,5386334720.0,0.82,0.007
+HG,"Hamilton Insurance Group, Ltd.",Bermuda,A,Insurance - Reinsurance,3114653184.0,0.525,
+HSX.L,Hiscox Ltd,Bermuda,A,Insurance - Property & Casualty,5698891264.0,0.692,0.009
+RNR,RenaissanceRe Holdings Ltd.,Bermuda,A,Insurance - Reinsurance,12754527232.0,0.619,
+SPNT,SiriusPoint Ltd.,Bermuda,A,Insurance - Reinsurance,2675258880.0,0.421,
+WTM,"White Mountains Insurance Group, Ltd.",Bermuda,A,Insurance - Property & Casualty,4986428416.0,0.456,
+BBSE3.SA,BB Seguridade Participações S.A.,Brazil,A,Insurance - Diversified,75514568704.0,0.566,0.0
+DFY.TO,Definity Financial Corporation,Canada,A,Insurance - Property & Casualty,8665155584.0,0.726,0.01
+ELF.TO,E-L Financial Corporation Limited,Canada,A,Insurance - Life,5915296768.0,0.612,0.0
+FFH.TO,Fairfax Financial Holdings Limited,Canada,A,Insurance - Property & Casualty,46196178944.0,0.602,0.033
+IAG.TO,iA Financial Corporation Inc.,Canada,A,Insurance - Diversified,16906784768.0,0.306,0.003
+IFC.TO,Intact Financial Corporation,Canada,A,Insurance - Property & Casualty,49140240384.0,0.65,0.014
+1336.HK,New China Life Insurance Company Ltd.,China,A,Insurance - Life,155353415680.0,1.0,0.009
+1339.HK,The People's Insurance Company (Group) of China Limited,China,A,Insurance - Property & Casualty,228195794944.0,0.839,0.019
+2318.HK,"Ping An Insurance (Group) Company of China, Ltd.",China,A,Insurance - Life,975096512512.0,0.781,0.004
+2601.HK,"China Pacific Insurance (Group) Co., Ltd.",China,A,Insurance - Life,274179735552.0,1.0,0.009
+2628.HK,China Life Insurance Company Limited,China,A,Insurance - Life,791977000960.0,1.0,0.007
+TRYG.CO,Tryg A/S,Denmark,A,Insurance - Diversified,89563447296.0,0.635,0.008
+COFA.PA,COFACE SA,France,A,Insurance - Reinsurance,2273522688.0,0.409,0.011
+CS.PA,AXA SA,France,A,Insurance - Diversified,86454501376.0,0.672,0.003
+SCR.PA,SCOR SE,France,A,Insurance - Reinsurance,5616849408.0,0.662,0.019
+ALV.DE,Allianz SE,Germany,A,Insurance - Diversified,151866228736.0,0.732,0.013
+HNR1.DE,Hannover Rück SE,Germany,A,Insurance - Reinsurance,28243849216.0,0.93,0.002
+MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Germany,A,Insurance - Reinsurance,60270047232.0,0.831,0.009
+TLX.DE,Talanx AG,Germany,A,Insurance - Diversified,27268980736.0,0.794,0.005
+1299.HK,AIA Group Limited,Hong Kong,A,Insurance - Life,759490674688.0,0.896,0.014
+PRU.L,Prudential plc,Hong Kong,A,Insurance - Life,25146042368.0,0.872,0.002
+HDFCLIFE.NS,HDFC Life Insurance Company Limited,India,A,Insurance - Life,1289695133696.0,1.0,0.002
+ICICIGI.NS,ICICI Lombard General Insurance Company Limited,India,A,Insurance - Diversified,936946237440.0,0.898,0.009
+ICICIPRULI.NS,ICICI Prudential Life Insurance Company Limited,India,A,Insurance - Life,729660391424.0,0.485,0.002
+SBILIFE.NS,SBI Life Insurance Company Limited,India,A,Insurance - Life,1810748801024.0,0.91,0.001
+G.MI,Assicurazioni Generali S.p.A.,Italy,A,Insurance - Diversified,63638904832.0,0.899,0.007
+8630.T,"Sompo Holdings, Inc.",Japan,A,Insurance - Property & Casualty,5658598965248.0,1.0,0.035
+8725.T,"MS&AD Insurance Group Holdings, Inc.",Japan,A,Insurance - Property & Casualty,6599186317312.0,1.0,0.017
+8750.T,"Daiichi Life Group, Inc.",Japan,A,Insurance - Life,6533925568512.0,1.0,0.017
+8766.T,"Tokio Marine Holdings, Inc.",Japan,A,Insurance - Property & Casualty,13752718065664.0,1.0,0.018
+8795.T,"T&D Holdings, Inc.",Japan,A,Insurance - Life,2348463423488.0,1.0,0.021
+IGIC,International General Insurance Holdings Ltd.,Jordan,A,Insurance - Diversified,1057534912.0,0.534,
+AGN.AS,Aegon Ltd.,Netherlands,A,Insurance - Diversified,11253189632.0,0.911,0.001
+ASRNL.AS,ASR Nederland N.V.,Netherlands,A,Insurance - Diversified,13678711808.0,0.454,0.005
+NN.AS,NN Group N.V.,Netherlands,A,Insurance - Diversified,19592429568.0,0.94,0.002
+PZU.WA,Powszechny Zaklad Ubezpieczen SA,Poland,A,Insurance - Property & Casualty,58477780992.0,0.608,0.009
+SLM.JO,Sanlam Limited,South Africa,A,Insurance - Life,188642099200.0,0.934,0.003
+000810.KS,"Samsung Fire & Marine Insurance Co., Ltd.",South Korea,A,Insurance - Property & Casualty,29756661694464.0,0.624,0.015
+032830.KS,"Samsung Life Insurance Co., Ltd.",South Korea,A,Insurance - Life,89248665436160.0,0.742,0.003
+CB,Chubb Limited,Switzerland,A,Insurance - Property & Casualty,125433954304.0,0.58,
+SLHN.SW,Swiss Life Holding AG,Switzerland,A,Insurance - Diversified,24530556928.0,0.771,0.005
+SREN.SW,Swiss Re AG,Switzerland,A,Insurance - Reinsurance,36393078784.0,0.738,
+ZURN.SW,Zurich Insurance Group AG,Switzerland,A,Insurance - Diversified,86066569216.0,0.667,0.005
+2881.TW,"Fubon Financial Holding Co., Ltd.",Taiwan,A,Insurance - Life,1885869703168.0,1.0,0.007
+2882.TW,"Cathay Financial Holding Co., Ltd.",Taiwan,A,Insurance - Life,1694293688320.0,1.0,0.008
+ADM.L,Admiral Group plc,United Kingdom,A,Insurance - Property & Casualty,9726271488.0,0.576,0.009
+AV.L,Aviva plc,United Kingdom,A,Insurance - Diversified,18991300608.0,0.877,0.001
+BEZ.L,Beazley plc,United Kingdom,A,Insurance - Specialty,7591856128.0,0.619,0.005
+ACIC,American Coastal Insurance Corporation,United States,A,Insurance - Property & Casualty,508872512.0,0.319,0.001
+AFG,"American Financial Group, Inc.",United States,A,Insurance - Property & Casualty,11042139136.0,0.44,
+ALL,The Allstate Corporation,United States,A,Insurance - Property & Casualty,56933785600.0,0.678,0.005
+AMSF,"AMERISAFE, Inc.",United States,A,Insurance - Specialty,585802112.0,0.65,0.006
+ASIC,Ategrity Specialty Insurance Co,United States,A,Insurance - Property & Casualty,1016370880.0,0.657,
+BOW,Bowhead Specialty Holdings Inc.,United States,A,Insurance - Property & Casualty,895821632.0,0.578,0.004
+BRK-B,Berkshire Hathaway Inc.,United States,A,Insurance - Diversified,1055693602816.0,0.538,0.192
+CINF,Cincinnati Financial Corporation,United States,A,Insurance - Property & Casualty,26327681024.0,0.755,0.005
+CNA,CNA Financial Corporation,United States,A,Insurance - Property & Casualty,12044058624.0,0.709,0.004
+DGICA,Donegal Group Inc.,United States,A,Insurance - Property & Casualty,647997568.0,0.629,0.001
+EIG,"Employers Holdings, Inc.",United States,A,Insurance - Specialty,849207936.0,0.652,0.003
+HIG,"The Hartford Insurance Group, Inc.",United States,A,Insurance - Diversified,35157278720.0,0.661,0.011
+HMN,Horace Mann Educators Corporation,United States,A,Insurance - Property & Casualty,1965755520.0,0.469,0.005
+HRTG,"Heritage Insurance Holdings, Inc.",United States,A,Insurance - Property & Casualty,704464896.0,0.325,0.021
+KMPR,Kemper Corporation,United States,A,Insurance - Property & Casualty,1473622016.0,0.609,
+KNSL,"Kinsale Capital Group, Inc.",United States,A,Insurance - Property & Casualty,7122952192.0,0.823,0.015
+L,Loews Corporation,United States,A,Insurance - Property & Casualty,22074886144.0,0.627,0.124
+LMND,"Lemonade, Inc.",United States,A,Insurance - Property & Casualty,4520135168.0,0.375,0.018
+MBI,MBIA Inc.,United States,A,Insurance - Specialty,309678944.0,0.832,
+MCY,Mercury General Corporation,United States,A,Insurance - Property & Casualty,5686750208.0,0.688,0.017
+MKL,Markel Group Inc.,United States,A,Insurance - Property & Casualty,23114825728.0,0.477,
+MTG,MGIC Investment Corporation,United States,A,Insurance - Specialty,5511436288.0,0.875,0.005
+NMIH,"NMI Holdings, Inc.",United States,A,Insurance - Specialty,2847426304.0,0.817,0.006
+NODK,"NI Holdings, Inc.",United States,A,Insurance - Property & Casualty,325859648.0,0.643,0.013
+ORI,Old Republic International Corporation,United States,A,Insurance - Property & Casualty,9423106048.0,0.563,
+PGR,The Progressive Corporation,United States,A,Insurance - Property & Casualty,119275315200.0,0.791,0.006
+PLMR,"Palomar Holdings, Inc.",United States,A,Insurance - Property & Casualty,2960482304.0,0.434,0.001
+PRA,ProAssurance Corporation,United States,A,Insurance - Property & Casualty,1272130432.0,0.796,0.003
+RDN,Radian Group Inc.,United States,A,Insurance - Specialty,4614239744.0,0.728,0.002
+RGA,"Reinsurance Group of America, Incorporated",United States,A,Insurance - Reinsurance,13793140736.0,0.678,0.002
+RLI,RLI Corp.,United States,A,Insurance - Property & Casualty,4881006080.0,0.748,0.007
+SAFT,"Safety Insurance Group, Inc.",United States,A,Insurance - Property & Casualty,1035622592.0,0.623,0.008
+SIGI,"Selective Insurance Group, Inc.",United States,A,Insurance - Property & Casualty,5526555136.0,0.694,0.007
+SKWD,"Skyward Specialty Insurance Group, Inc.",United States,A,Insurance - Property & Casualty,2049857408.0,0.466,0.003
+THG,"The Hanover Insurance Group, Inc.",United States,A,Insurance - Property & Casualty,6924934656.0,0.574,
+TRV,"The Travelers Companies, Inc.",United States,A,Insurance - Property & Casualty,65454161920.0,0.669,
+UFCS,"United Fire Group, Inc.",United States,A,Insurance - Property & Casualty,1238936320.0,0.574,0.035
+UVE,"Universal Insurance Holdings, Inc.",United States,A,Insurance - Property & Casualty,1063413568.0,0.538,0.017
+WRB,W. R. Berkley Corporation,United States,A,Insurance - Property & Casualty,25009551360.0,0.658,0.014
+SOL.AX,WHSP Holdings Limited,Australia,B/C,Capital Markets,16777252864.0,1.0,0.07
+COMB.BR,Compagnie du Bois Sauvage S.A.,Belgium,B/C,Confectioners,482524672.0,0.366,0.09
+SOF.BR,Sofina Société Anonyme,Belgium,B/C,Asset Management,8102571520.0,1.0,
+SOLV.BR,Solvac S.A.,Belgium,B/C,Chemicals,1667252480.0,0.987,0.0
+J36.SI,Jardine Matheson Holdings Limited,Bermuda,B/C,Conglomerates,19085334528.0,0.528,0.128
+ITSA4.SA,Itaúsa S.A.,Brazil,B/C,Conglomerates,143337947136.0,0.794,0.047
+BN,Brookfield Corporation,Canada,B/C,Asset Management,99260989440.0,0.406,0.32
+FIH-U.TO,Fairfax India Holdings Corporation,Canada,B/C,Asset Management,2287088384.0,0.997,
+ONEX.TO,Onex Corporation,Canada,B/C,Asset Management,8346504192.0,0.608,0.003
+BOL.PA,Bolloré SE,France,B/C,Entertainment,15495515136.0,1.0,0.02
+PEUG.PA,Peugeot Invest Société anonyme,France,B/C,Asset Management,1451947392.0,1.0,0.0
+RF.PA,Eurazeo SE,France,B/C,Asset Management,2741671424.0,0.988,0.01
+TKO.PA,Tikehau Capital,France,B/C,Asset Management,2963916032.0,0.801,0.015
+PAH3.DE,Porsche Automobil Holding SE,Germany,B/C,Auto Manufacturers,9395749888.0,0.956,0.0
+0001.HK,CK Hutchison Holdings Limited,Hong Kong,B/C,Conglomerates,265996566528.0,0.329,0.138
+0087.HK,Swire Pacific Limited,Hong Kong,B/C,Conglomerates,45929472000.0,0.705,0.068
+BAJAJHLDNG.NS,Bajaj Holdings & Investment Limited,India,B/C,Asset Management,1190284099584.0,1.0,0.0
+TATAINVEST.NS,Tata Investment Corporation Limited,India,B/C,Asset Management,349208739840.0,1.0,0.0
+ITM.MI,Italmobiliare S.p.A.,Italy,B/C,Packaged Foods,1216701312.0,0.313,0.139
+PST.MI,Poste Italiane S.p.A.,Italy,B/C,Conglomerates,37482434560.0,1.0,0.015
+6178.T,"Japan Post Holdings Co., Ltd.",Japan,B/C,Banks - Regional,6287553200128.0,1.0,0.011
+8001.T,ITOCHU Corporation,Japan,B/C,Conglomerates,12913863557120.0,0.34,0.144
+8002.T,Marubeni Corporation,Japan,B/C,Conglomerates,8003340730368.0,0.4,0.109
+8031.T,"Mitsui & Co., Ltd.",Japan,B/C,Conglomerates,13366031548416.0,0.438,0.179
+8053.T,Sumitomo Corporation,Japan,B/C,Conglomerates,7690565713920.0,0.34,0.093
+8058.T,Mitsubishi Corporation,Japan,B/C,Conglomerates,16623203254272.0,0.318,0.175
+BREB.BR,Brederode SA,Luxembourg,B/C,Asset Management,3012614400.0,1.0,
+EXO.AS,Exor N.V.,Netherlands,B/C,Farm & Heavy Construction Machinery,21544785920.0,0.971,0.001
+PRX.AS,Prosus N.V.,Netherlands,B/C,Internet Retail,81465548800.0,0.752,0.007
+IFT.NZ,Infratil Limited,New Zealand,B/C,Conglomerates,15059638272.0,0.369,0.24
+AKER.OL,Aker ASA,Norway,B/C,Conglomerates,85284093952.0,0.535,0.29
+NPN.JO,Naspers Limited,South Africa,B/C,Internet Retail,626663686144.0,0.745,0.01
+REM.JO,Remgro Limited,South Africa,B/C,Asset Management,108333031424.0,0.79,0.081
+SBP.JO,Sabvest Capital Limited,South Africa,B/C,Asset Management,5809200128.0,1.0,
+028260.KS,Samsung C&T Corporation,South Korea,B/C,Engineering & Construction,80426685169664.0,1.0,0.118
+INDU-A.ST,AB Industrivärden (publ),Sweden,B/C,Asset Management,226747023360.0,0.993,0.0
+INVE-B.ST,Investor AB (publ),Sweden,B/C,Asset Management,1198380285952.0,0.872,0.009
+KINV-A.ST,Kinnevik AB,Sweden,B/C,Asset Management,19049906176.0,1.0,0.003
+LATO-B.ST,Investment AB Latour (publ),Sweden,B/C,Conglomerates,124315435008.0,0.454,0.062
+LUND-B.ST,L E Lundbergföretagen AB (publ),Sweden,B/C,Conglomerates,136151998464.0,0.777,0.054
+III.L,3i Group Ord,United Kingdom,B/C,Asset Management,22240505856.0,0.975,0.002
+LGEN.L,Legal & General Group Plc,United Kingdom,B/C,Asset Management,15520923648.0,0.915,0.001
+STJ.L,St. James's Place plc,United Kingdom,B/C,Asset Management,5828321792.0,1.0,0.001
+IAC,People Inc,United States,B/C,Internet Content & Information,3142127872.0,0.452,0.04
+JEF,Jefferies Financial Group Inc.,United States,B/C,Capital Markets,12695245824.0,0.712,0.016

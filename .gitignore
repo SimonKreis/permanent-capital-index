@@ -1,0 +1,50 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Working drafts (not for publication)
+_trash/
+_next-steps/
+ANTIGRAVITY_*.md
+PCI-LEGAL-MEMO.md
+
+# Temporary / output files
+*.log
+
+# Legal / trademark filings (personal, never publish)
+OPIC/
+*AVIS D'APPROBATION*
+*AVIS DE RÉCEPTION*
+*MARQUE DE COMMERCE*
+
+# Google Drive sync conflict duplicates
+*(1)*
+
+# Agent harness — local working context, deliberately NOT published.
+# These stay on disk; they are how the project is maintained, not what it publishes.
+# AGENTS.md is the exception: it is public (README links to it).
+CLAUDE.md
+.claude/
+.agents/
+memory/
+
+# Frozen-project cleanup holding area (never published)
+trash/
