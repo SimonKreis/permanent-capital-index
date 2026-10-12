@@ -1,0 +1,208 @@
+Ticker,Name,Country,SeedSource
+ALL,Allstate Corporation,United States,insurer_seed
+AFG,American Financial Group,United States,insurer_seed
+AHL,Aspen Insurance Holdings,Bermuda,insurer_seed
+AIZ,Assurant Inc.,United States,insurer_seed
+AGO,Assured Guaranty Ltd.,Bermuda,insurer_seed
+ASIC,Ategrity Specialty Insurance,United States,insurer_seed
+AXS,AXIS Capital Holdings,Bermuda,insurer_seed
+BOW,Bowhead Specialty Holdings,United States,insurer_seed
+BNT,Brookfield Wealth Solutions,Bermuda,insurer_seed
+CB,Chubb Limited,Switzerland,insurer_seed
+CNA,CNA Financial Corporation,United States,insurer_seed
+EIG,Employers Holdings,United States,insurer_seed
+ESNT,Essent Group Ltd.,Bermuda,insurer_seed
+EG,Everest Group Ltd.,Bermuda,insurer_seed
+FIHL,Fidelis Insurance Holdings,Bermuda,insurer_seed
+HG,Hamilton Insurance Group,Bermuda,insurer_seed
+THG,Hanover Insurance Group,United States,insurer_seed
+HCI,HCI Group Inc.,United States,insurer_seed
+HRTG,Heritage Insurance Holdings,United States,insurer_seed
+HIPO,Hippo Holdings,United States,insurer_seed
+HMN,Horace Mann Educators,United States,insurer_seed
+KMPR,Kemper Corporation,United States,insurer_seed
+KFS,Kingsway Financial Services,Canada,insurer_seed
+KNSL,Kinsale Capital Group,United States,insurer_seed
+LMND,Lemonade Inc.,United States,insurer_seed
+L,Loews Corporation,United States,insurer_seed
+MKL,Markel Group Inc.,United States,insurer_seed
+MBI,MBIA Inc.,United States,insurer_seed
+MCY,Mercury General Corporation,United States,insurer_seed
+MTG,MGIC Investment Corporation,United States,insurer_seed
+OSG,Octave Specialty Group,United States,insurer_seed
+ORI,Old Republic International,United States,insurer_seed
+PRA,ProAssurance Corporation,United States,insurer_seed
+PGR,Progressive Corporation,United States,insurer_seed
+RDN,Radian Group Inc.,United States,insurer_seed
+RNR,RenaissanceRe Holdings,Bermuda,insurer_seed
+RLI,RLI Corp.,United States,insurer_seed
+SPNT,SiriusPoint Ltd.,Bermuda,insurer_seed
+HIG,Hartford Insurance Group,United States,insurer_seed
+TRV,Travelers Companies Inc.,United States,insurer_seed
+UVE,Universal Insurance Holdings,United States,insurer_seed
+WRB,W.R. Berkley Corporation,United States,insurer_seed
+WTM,White Mountains Insurance Group,United States,insurer_seed
+ACIC,American Coastal Insurance,United States,insurer_seed
+AMSF,AMERISAFE Inc.,United States,insurer_seed
+ACGL,Arch Capital Group Ltd.,Bermuda,insurer_seed
+CINF,Cincinnati Financial Corporation,United States,insurer_seed
+CNFR,Conifer Holdings Inc.,United States,insurer_seed
+DGICA,Donegal Group Inc.,United States,insurer_seed
+ESGR,Enstar Group Limited,Bermuda,insurer_seed
+FGF,Fundamental Global Inc.,United States,insurer_seed
+GLRE,Greenlight Capital Re Ltd.,Cayman Islands,insurer_seed
+ICCH,ICC Holdings Inc.,United States,insurer_seed
+IGIC,International General Insurance,Jordan,insurer_seed
+JRVR,James River Group Holdings,Bermuda,insurer_seed
+KINS,Kingstone Companies Inc.,United States,insurer_seed
+MHLD,Maiden Holdings Ltd.,Bermuda,insurer_seed
+NODK,NI Holdings Inc.,United States,insurer_seed
+NMIH,NMI Holdings Inc.,United States,insurer_seed
+OXBR,Oxbridge Re Holdings,Cayman Islands,insurer_seed
+PLMR,Palomar Holdings Inc.,United States,insurer_seed
+ROOT,Root Inc.,United States,insurer_seed
+SAFT,Safety Insurance Group,United States,insurer_seed
+SIGI,Selective Insurance Group,United States,insurer_seed
+SKWD,Skyward Specialty Insurance,United States,insurer_seed
+TIPT,Tiptree Inc.,United States,insurer_seed
+UFCS,United Fire Group Inc.,United States,insurer_seed
+FFH.TO,Fairfax Financial Holdings,Canada,insurer_seed
+IFC.TO,Intact Financial Corporation,Canada,insurer_seed
+DFY.TO,Definity Financial Corporation,Canada,insurer_seed
+MFC.TO,Manulife Financial,Canada,insurer_seed
+SLF.TO,Sun Life Financial,Canada,insurer_seed
+GWO.TO,Great-West Lifeco,Canada,insurer_seed
+IAG.TO,iA Financial Corporation,Canada,insurer_seed
+POW.TO,Power Corporation of Canada,Canada,insurer_seed
+ALV.DE,Allianz SE,Germany,insurer_seed
+MUV2.DE,Munich Re,Germany,insurer_seed
+HNR1.DE,Hannover Rück SE,Germany,insurer_seed
+TLX.DE,Talanx AG,Germany,insurer_seed
+ZURN.SW,Zurich Insurance Group,Switzerland,insurer_seed
+SREN.SW,Swiss Re AG,Switzerland,insurer_seed
+SLHN.SW,Swiss Life Holding,Switzerland,insurer_seed
+HELN.SW,Helvetia Holding,Switzerland,insurer_seed
+BALN.SW,Baloise Holding,Switzerland,insurer_seed
+CS.PA,AXA SA,France,insurer_seed
+SCR.PA,SCOR SE,France,insurer_seed
+COFA.PA,Coface SA,France,insurer_seed
+G.MI,Assicurazioni Generali,Italy,insurer_seed
+US.MI,UnipolSai Assicurazioni,Italy,insurer_seed
+PST.MI,Poste Italiane,Italy,insurer_seed
+AGN.AS,Aegon Ltd.,Netherlands,insurer_seed
+NN.AS,NN Group NV,Netherlands,insurer_seed
+ASRNL.AS,ASR Nederland NV,Netherlands,insurer_seed
+AGS.BR,Ageas SA/NV,Belgium,insurer_seed
+TRYG.CO,Tryg A/S,Denmark,insurer_seed
+TOP.CO,Topdanmark A/S,Denmark,insurer_seed
+SAMP.CO,Sampo Oyj,Finland,insurer_seed
+GJFS.OL,Gjensidige Forsikring,Norway,insurer_seed
+PZU.WA,PZU SA,Poland,insurer_seed
+ADM.L,Admiral Group plc,United Kingdom,insurer_seed
+BEZ.L,Beazley plc,United Kingdom,insurer_seed
+DLG.L,Direct Line Insurance Group,United Kingdom,insurer_seed
+HSX.L,Hiscox Ltd,United Kingdom,insurer_seed
+LGEN.L,Legal & General Group,United Kingdom,insurer_seed
+PHNX.L,Phoenix Group Holdings,United Kingdom,insurer_seed
+PRU.L,Prudential plc,United Kingdom,insurer_seed
+AV.L,Aviva plc,United Kingdom,insurer_seed
+STJ.L,St. James's Place,United Kingdom,insurer_seed
+8766.T,Tokio Marine Holdings,Japan,insurer_seed
+8725.T,MS&AD Insurance Group,Japan,insurer_seed
+8630.T,Sompo Holdings,Japan,insurer_seed
+8750.T,Dai-ichi Life Holdings,Japan,insurer_seed
+8795.T,T&D Holdings,Japan,insurer_seed
+6178.T,Japan Post Holdings,Japan,insurer_seed
+6183.T,Sony Financial Holdings,Japan,insurer_seed
+000810.KS,Samsung Fire & Marine Insurance,South Korea,insurer_seed
+032830.KS,Samsung Life Insurance,South Korea,insurer_seed
+1299.HK,AIA Group Limited,Hong Kong,insurer_seed
+2318.HK,Ping An Insurance,China,insurer_seed
+2628.HK,China Life Insurance,China,insurer_seed
+1339.HK,PICC Property & Casualty,China,insurer_seed
+1336.HK,New China Life Insurance,China,insurer_seed
+2601.HK,China Pacific Insurance,China,insurer_seed
+QBE.AX,QBE Insurance Group,Australia,insurer_seed
+SUN.AX,Suncorp Group,Australia,insurer_seed
+IAG.AX,Insurance Australia Group,Australia,insurer_seed
+MPL.AX,Medibank Private,Australia,insurer_seed
+HDFCLIFE.NS,HDFC Life Insurance,India,insurer_seed
+SBILIFE.NS,SBILife Insurance,India,insurer_seed
+ICICIPRULI.NS,ICICI Prudential Life,India,insurer_seed
+ICICIGI.NS,ICICI Lombard General Insurance,India,insurer_seed
+2881.TW,Fubon Financial Holding,Taiwan,insurer_seed
+2882.TW,Cathay Financial Holding,Taiwan,insurer_seed
+2888.TW,Shin Kong Financial Holding,Taiwan,insurer_seed
+SLM.JO,Sanlam Limited,South Africa,insurer_seed
+BBSE3.SA,BB Seguridade,Brazil,insurer_seed
+BRK-B,Berkshire Hathaway,United States,insurer_seed
+RGA,Reinsurance Group of America,United States,insurer_seed
+MF.PA,Wendel SE,France,canonical
+RF.PA,Eurazeo SE,France,canonical
+BOL.PA,Bolloré SE,France,canonical
+PEUG.PA,Peugeot Invest,France,canonical
+ACKB.BR,Ackermans & van Haaren NV,Belgium,canonical
+SOF.BR,Sofina SA,Belgium,canonical
+DIE.BR,D'Ieteren Group SA,Belgium,canonical
+COMB.BR,Compagnie du Bois Sauvage SA,Belgium,canonical
+GBLB.BR,Groupe Bruxelles Lambert SA,Belgium,canonical
+SOLV.BR,Solvac SA,Belgium,canonical
+HAL.AS,HAL Trust,Netherlands,canonical
+EXO.AS,Exor NV,Netherlands,canonical
+INVE-B.ST,Investor AB,Sweden,canonical
+INDU-A.ST,Industrivärden AB,Sweden,canonical
+LATO-B.ST,Investment AB Latour,Sweden,canonical
+KINV-A.ST,Kinnevik AB,Sweden,canonical
+LUND-B.ST,L E Lundbergföretagen AB,Sweden,canonical
+ITM.MI,Italmobiliare SpA,Italy,canonical
+CIR.MI,CIR SpA — Compagnie Industriali Riunite,Italy,canonical
+ORK.OL,Orkla ASA,Norway,canonical
+ONEX.TO,Onex Corporation,Canada,canonical
+ELF.TO,E-L Financial Corporation Ltd.,Canada,canonical
+SOL.AX,Washington H. Soul Pattinson & Co.,Australia,canonical
+IFT.NZ,Infratil Limited,New Zealand,canonical
+BAJAJHLDNG.NS,Bajaj Holdings & Investment Ltd.,India,canonical
+TATAINVEST.NS,Tata Investment Corporation Ltd.,India,canonical
+ITSA4.SA,Itaúsa SA,Brazil,canonical
+GCARSOA1.MX,Grupo Carso SAB de CV,Mexico,canonical
+REM.JO,Remgro Limited,South Africa,canonical
+SBP.JO,Sabvest Capital Limited,South Africa,canonical
+GHC,Graham Holdings Company,United States,canonical
+JEF,Jefferies Financial Group Inc.,United States,canonical
+IAC,IAC Inc.,United States,canonical
+8058.T,Mitsubishi Corporation,Japan,canonical
+8031.T,Mitsui & Co Ltd,Japan,canonical
+8001.T,Itochu Corporation,Japan,canonical
+8002.T,Marubeni Corporation,Japan,canonical
+8053.T,Sumitomo Corporation,Japan,canonical
+2768.T,Sojitz Corporation,Japan,canonical
+8015.T,Toyota Tsusho Corporation,Japan,canonical
+8591.T,ORIX Corporation,Japan,canonical
+BN,Brookfield Corporation,Canada,canonical
+0001.HK,CK Hutchison Holdings Limited,Hong Kong,canonical
+0087.HK,Swire Pacific Limited,Hong Kong,canonical
+J36.SI,Jardine Matheson Holdings Limited,Bermuda,canonical
+028260.KS,Samsung C&T Corporation,South Korea,canonical
+003600.KS,SK Inc.,South Korea,canonical
+INH.DE,INDUS Holding AG,Germany,canonical
+III.L,3i Group plc,United Kingdom,canonical
+TKO.PA,Tikehau Capital SCA,France,canonical
+FIH-U.TO,Fairfax India,Canada,legacy_recovered
+PRX.AS,Prosus,Netherlands,legacy_recovered
+BREB.BR,Brederode,Luxembourg,legacy_recovered
+LXMPR.LS,Luxempart,Luxembourg,legacy_recovered
+AKER.OL,Aker ASA,Norway,legacy_recovered
+NPN.JO,Naspers,South Africa,legacy_recovered
+AC.PS,Ayala Corp,Philippines,legacy_recovered
+SEM.LS,Semapa,Portugal,legacy_recovered
+SON.LS,Sonae,Portugal,legacy_recovered
+ALB.MC,Corporacion Financiera Alba,Spain,legacy_recovered
+PSH.L,Pershing Square Holdings,UK,legacy_recovered
+RCP.L,RIT Capital Partners,UK,legacy_recovered
+CDI.PA,Christian Dior,France,legacy_recovered
+PAH3.DE,Porsche Holding,Germany,legacy_recovered
+BIPC,Brookfield Infrastructure Corp,US,legacy_recovered
+BOC,Boston Omaha,US,legacy_recovered
+DC-A.TO,Dundee Corp,Canada,legacy_recovered
+BAT.L,Brait,Mauritius,legacy_recovered
+BH,Biglari Holdings,US,legacy_recovered
