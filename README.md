@@ -4,6 +4,8 @@
 publicly traded companies that own and reallocate capital across a diversified portfolio
 of assets, financed by capital with no redemption claim and an indefinite horizon.**
 
+**Simon Kreis & Claude.** Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. From an original idea by Simon Kreis.
+
 > Built from the DNA of Berkshire Hathaway, the Wallenberg sphere, and the Japanese
 > *sogo shosha*: permanence of capital, owner alignment, and multi-decade compounding,
 > selected by **structure, never by past performance**.
