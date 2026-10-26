@@ -1,5 +1,7 @@
 # Permanent Capital Index™ (PCI)
 
+**English** · [Français](README.fr.md)
+
 **A reproducible, openly specified benchmark of *permanent capital allocators*:
 publicly traded companies that own and reallocate capital across a diversified portfolio
 of assets, financed by capital with no redemption claim and an indefinite horizon.**
