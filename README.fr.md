@@ -1,4 +1,4 @@
-<!-- translation-of: README.md @ 531e0d90a49ab5a669c8a8a272d115e18fe3d49f -->
+<!-- translation-of: README.md @ 95c67752bcc3de7e29d13e891b46bf654423fcc7 -->
 
 # Permanent Capital Index™ (PCI)
 
@@ -86,7 +86,8 @@ la justification : [`methodology/pci-theoretical-framework.md`](methodology/pci-
 ```
 permanent-capital-index/
 ├── whitepaper/
-│   └── pci-whitepaper.md
+│   ├── pci-whitepaper.md
+│   └── pci-whitepaper.fr.md
 ├── methodology/
 │   ├── pci-index-methodology.md       # canonical rules (single source of truth)
 │   └── pci-theoretical-framework.md   # why the category should have an edge
@@ -139,7 +140,7 @@ La méthodologie est **ouverte à dessein** ; la marque et les données officiel
 
 Voir [`LICENSE.md`](LICENSE.md). Ceci n'est pas un conseil en placement ; voir la méthodologie, §7, pour les limites.
 
-Contact : Simon Kreis, M. Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
+Contact : Simon Kreis, M.Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
 
 ---
 

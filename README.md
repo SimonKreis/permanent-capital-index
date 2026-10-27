@@ -83,7 +83,8 @@ rationale: [`methodology/pci-theoretical-framework.md`](methodology/pci-theoreti
 ```
 permanent-capital-index/
 ├── whitepaper/
-│   └── pci-whitepaper.md
+│   ├── pci-whitepaper.md
+│   └── pci-whitepaper.fr.md
 ├── methodology/
 │   ├── pci-index-methodology.md       # canonical rules (single source of truth)
 │   └── pci-theoretical-framework.md   # why the category should have an edge
@@ -136,7 +137,7 @@ The methodology is **open by design**; the brand and official index data are pro
 
 See [`LICENSE.md`](LICENSE.md). Not investment advice; see methodology §7 for limitations.
 
-Contact: Simon Kreis, M. Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
+Contact: Simon Kreis, M.Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
 
 ---
 

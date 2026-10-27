@@ -1,6 +1,10 @@
 # Permanent Capital Index™ — Whitepaper
 
-**Version 3.1 — June 2026**
+**English** · [Français](pci-whitepaper.fr.md)
+
+**Simon Kreis & Claude.** Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. From an original idea by Simon Kreis.
+
+Updated June 2026.
 
 ## Dedication
 
@@ -293,4 +297,4 @@ Full text: [PCI Methodology](../methodology/pci-index-methodology.md) · [Theore
 
 ---
 
-*Permanent Capital Index™ — Whitepaper v3.1, June 2026. Documentation licensed CC BY 4.0; "Permanent Capital Index" and "PCI" are trademarks (see [LICENSE](../LICENSE.md)). Not investment advice; backtested figures are subject to the limitations documented in the methodology and are not indicative of future results.*
+*Permanent Capital Index™ — Whitepaper, updated June 2026. Documentation licensed CC BY 4.0; "Permanent Capital Index" and "PCI" are trademarks (see [LICENSE](../LICENSE.md)). Not investment advice; backtested figures are subject to the limitations documented in the methodology and are not indicative of future results.*
