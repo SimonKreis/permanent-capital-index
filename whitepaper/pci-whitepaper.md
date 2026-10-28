@@ -185,11 +185,11 @@ Equal-weighting 147 constituents produces a radically different geographic profi
 ## 8. Results — honest, not flattering
 
 Backtest 2010–2026, total return, USD (147 current constituents, held fixed historically;
-145 of them priced — two have since been acquired or renamed, see the caveats below):
+144 of them priced — three have since been acquired or renamed, see the caveats below):
 
 | | CAGR | Max Drawdown | Volatility | Sharpe |
 |---|---|---|---|---|
-| **PCI** | **12.9%** | −36.1% | 16.9% | 0.68 |
+| **PCI** | **12.9%** | −36.0% | 16.9% | 0.68 |
 | S&P 500 (Total Return) | 14.1% | −31.7% | 16.2% | 0.77 |
 | MSCI World (Total Return) | 12.2% | −32.7% | 15.7% | 0.68 |
 

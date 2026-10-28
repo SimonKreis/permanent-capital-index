@@ -12,8 +12,8 @@ of assets, financed by capital with no redemption claim and an indefinite horizo
 > *sogo shosha*: permanence of capital, owner alignment, and multi-decade compounding,
 > selected by **structure, never by past performance**.
 
-> **Release of record (September 2026).** Every figure below comes from one pinned,
-> reproducible run, described in [`AGENTS.md`](AGENTS.md) §5; two constituents can no longer
+> **Release of record (October 2026).** Every figure below comes from one pinned,
+> reproducible run, described in [`AGENTS.md`](AGENTS.md) §5; three constituents can no longer
 > be priced (§7.4). Research only; not investment advice.
 
 ---
@@ -38,12 +38,12 @@ of the rule mechanically.
 
 | | CAGR | Max Drawdown | Volatility | Sharpe |
 |---|---|---|---|---|
-| **PCI** | **12.9%** | −36.1% | 16.9% | 0.68 |
+| **PCI** | **12.9%** | −36.0% | 16.9% | 0.68 |
 | S&P 500 (Total Return) | 14.1% | −31.7% | 16.2% | 0.77 |
 | MSCI World (Total Return) | 12.2% | −32.7% | 15.7% | 0.68 |
 
 <sub>Run of record: `--start 2010-01-01 --end 2026-06-30`, effective 2010-01-08 → 2026-07-03,
-145 of 147 constituents priced (see [AGENTS.md](AGENTS.md) for why 145 and how to reproduce).
+144 of 147 constituents priced (see [AGENTS.md](AGENTS.md) for why 144 and how to reproduce).
 Figures move if you change `--end`, so always pin it.
 MSCI World (URTH proxy) data begins 2012-01-13; its figures cover 2012–2026, not 2010–2026.</sub>
 

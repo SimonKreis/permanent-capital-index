@@ -187,11 +187,11 @@ L'équipondération de 147 constituants produit un profil géographique radicale
 ## 8. Résultats : honnêtes, pas flatteurs
 
 Test rétrospectif 2010-2026, rendement total, en USD (147 constituants actuels, maintenus fixes dans l'historique ;
-145 d'entre eux évalués, deux ayant depuis été acquis ou renommés, voir les réserves ci-dessous) :
+144 d'entre eux évalués, trois ayant depuis été acquis ou renommés, voir les réserves ci-dessous) :
 
 | | TCAC | Perte maximale | Volatilité | Sharpe |
 |---|---|---|---|---|
-| **PCI** | **12,9 %** | −36,1 % | 16,9 % | 0,68 |
+| **PCI** | **12,9 %** | −36,0 % | 16,9 % | 0,68 |
 | S&P 500 (rendement total) | 14,1 % | −31,7 % | 16,2 % | 0,77 |
 | MSCI World (rendement total) | 12,2 % | −32,7 % | 15,7 % | 0,68 |
 
