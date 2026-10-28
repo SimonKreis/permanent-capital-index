@@ -162,6 +162,7 @@ def main():
     ap.add_argument("--start", default="2010-01-01")
     ap.add_argument("--end", default=datetime.now().strftime("%Y-%m-%d"))
     ap.add_argument("--out-dir", default="data/historical")
+    ap.add_argument("--chart", default="charts/pci_main.png")
     args = ap.parse_args()
 
     cons = pd.read_csv(args.input)
@@ -173,7 +174,8 @@ def main():
     px_usd = to_usd(px, tickers, args.start, args.end)
     px_usd = sanitize(px_usd).ffill()  # carry last price on non-trading weeks (avoid sparse-week artifacts)
     cov = px_usd.notna().sum(axis=1)
-    print(f"Names with data: {px_usd.notna().any().sum()}/{len(tickers)} | "
+    priced = int(px_usd.notna().any().sum())
+    print(f"Names with data: {priced}/{len(tickers)} | "
           f"weekly rows: {len(px_usd)}")
 
     start_ts, end_ts = pd.Timestamp(args.start), pd.Timestamp(args.end)
@@ -213,22 +215,23 @@ def main():
                     arrowprops=dict(arrowstyle="->", color="gray", alpha=0.5))
     ax.set_yscale("log"); ax.yaxis.set_major_formatter(mticker.ScalarFormatter())
     ax.set_title(f"Permanent Capital Index vs Total-Return Benchmarks | {eff0} to {eff1}\n"
-                 f"{len(tickers)} constituents, equal-weight, USD TR (survivorship-biased -- see methodology)",
+                 f"{priced} of {len(tickers)} constituents priced, equal-weight, USD TR (survivorship-biased -- see methodology)",
                  fontsize=12, fontweight="bold")
     ax.set_ylabel("Index (log, base 1000)"); ax.legend(loc="upper left"); ax.grid(alpha=0.3)
     stat = (f"CAGR  PCI {mp['cagr']:.1f}%  S&P {ms['cagr']:.1f}%  MSCI {mw['cagr']:.1f}%\n"
             f"MaxDD PCI {mp['max_dd']:.1f}%  S&P {ms['max_dd']:.1f}%  MSCI {mw['max_dd']:.1f}%\n"
             f"Vol   PCI {mp['vol']:.1f}%  S&P {ms['vol']:.1f}%  MSCI {mw['vol']:.1f}%")
-    ax.text(0.015, 0.02, stat, transform=ax.transAxes, fontsize=8.5, family="monospace",
-            va="bottom", bbox=dict(boxstyle="round,pad=0.4", facecolor="white", alpha=0.85))
-    fig.tight_layout(); Path("charts").mkdir(exist_ok=True)
-    fig.savefig("charts/pci_main.png", dpi=160); plt.close(fig)
+    ax.text(0.985, 0.02, stat, transform=ax.transAxes, fontsize=8.5, family="monospace",
+            va="bottom", ha="right", multialignment="left",
+            bbox=dict(boxstyle="round,pad=0.4", facecolor="white", alpha=0.85))
+    fig.tight_layout(); Path(args.chart).parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(args.chart, dpi=160); plt.close(fig)
 
     print(f"\nEffective period: {eff0} -> {eff1}")
     for nm, m in [("PCI", mp), ("S&P 500 TR", ms), ("MSCI World TR", mw)]:
         print(f"  {nm:14s} CAGR {m['cagr']:5.1f}%  MaxDD {m['max_dd']:6.1f}%  "
               f"Vol {m['vol']:4.1f}%  Sharpe {m['sharpe']:.2f}")
-    print(f"\nSaved: {out/'pci_levels.csv'} , charts/pci_main.png")
+    print(f"\nSaved: {out/'pci_levels.csv'} , {args.chart}")
 
 
 if __name__ == "__main__":

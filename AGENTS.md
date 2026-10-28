@@ -118,14 +118,15 @@ py scripts/compare_countries.py --period both
 ```
 
 **Run of record:** `--start 2010-01-01 --end 2026-06-30`, effective period
-2010-01-08 → 2026-07-03, **145 of 147** constituents priced.
-PCI CAGR **12.9%**, MaxDD −36.1%, Vol 16.9%, Sharpe 0.68.
+2010-01-08 → 2026-07-03, **144 of 147** constituents priced.
+PCI CAGR **12.9%**, MaxDD −36.0%, Vol 16.9%, Sharpe 0.68.
 
 ---
 
 ## 6. Reproducing the published figures
 
-The same metrics appear in **five places**. Missing one leaves the repository publishing a
+The same metrics appear in **five places** (plus the French translations of the first
+two, `README.fr.md` and `whitepaper/pci-whitepaper.fr.md`, which mirror them). Missing one leaves the repository publishing a
 number it can no longer reproduce — which has happened before.
 
 1. `README.md` — backtest table
@@ -166,8 +167,10 @@ works. Before concluding a delisting, retest it in isolation:
 py -c "import yfinance as yf; print(len(yf.download('CS.PA', start='2010-01-01', end='2026-06-30', progress=False, auto_adjust=True)))"
 ```
 
-**7.4 — `PRA` and `IAC` genuinely return no data** (verified in isolation — not flakiness):
-ProAssurance was acquired, IAC was renamed "People Inc". Hence 145/147. Do **not** patch
+**7.4 — `PRA`, `IAC` and `BEZ.L` genuinely return no data** (verified in isolation — not
+flakiness): ProAssurance was acquired, IAC was renamed "People Inc", and Beazley was acquired
+by Zurich and delisted from the LSE on 2026-10-02 (which moved the run of record from 145 to
+144 names and its MaxDD from −36.1% to −36.0%). Hence 144/147. Do **not** patch
 `data/pci_constituents_v4.csv` casually: changing the list changes the index, and belongs to a
 reconstitution decision. This is also a live illustration of the survivorship bias that
 methodology §7 discloses.

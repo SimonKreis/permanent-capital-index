@@ -234,9 +234,9 @@ transparency, the table reports how the index behaves as the threshold is tighte
 
 | INV_MIN | Constituents | of which insurers | CAGR | Vol | Max DD | Sharpe |
 |---------|--------------|-------------------|------|-----|--------|--------|
-| **0.30 (index)** | 147 | 102 | **12.9%** | 16.9% | −36.1% | **0.68** |
-| 0.40 | 136 | 98 | 12.7% | 17.1% | −36.8% | 0.67 |
-| 0.50 | 119 | 86 | 12.5% | 17.2% | −36.8% | 0.65 |
+| **0.30 (index)** | 147 | 102 | **12.9%** | 16.9% | −36.0% | **0.68** |
+| 0.40 | 136 | 98 | 12.7% | 17.1% | −36.7% | 0.67 |
+| 0.50 | 119 | 86 | 12.5% | 17.2% | −36.7% | 0.65 |
 | 0.60 | 103 | 72 | 12.2% | 17.5% | −36.6% | 0.63 |
 
 Tightening the purity threshold **monotonically lowers return and Sharpe and raises

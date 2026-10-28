@@ -14,8 +14,8 @@ d'actifs, financées par un capital sans droit de rachat et à horizon indéfini
 > japonaises : permanence du capital, alignement des propriétaires et croissance composée sur plusieurs décennies,
 > le tout sélectionné par **la structure, jamais par la performance passée**.
 
-> **Version de référence (septembre 2026).** Chaque chiffre ci-dessous provient d'une seule exécution figée et
-> reproductible, décrite dans [`AGENTS.md`](AGENTS.md) §5 ; deux constituants ne peuvent plus
+> **Version de référence (octobre 2026).** Chaque chiffre ci-dessous provient d'une seule exécution figée et
+> reproductible, décrite dans [`AGENTS.md`](AGENTS.md) §5 ; trois constituants ne peuvent plus
 > être évalués (§7.4). À des fins de recherche seulement ; ceci n'est pas un conseil en placement.
 
 ---
@@ -40,12 +40,12 @@ géographique découle mécaniquement de la règle.
 
 | | TCAC | Perte maximale | Volatilité | Sharpe |
 |---|---|---|---|---|
-| **PCI** | **12,9 %** | −36,1 % | 16,9 % | 0,68 |
+| **PCI** | **12,9 %** | −36,0 % | 16,9 % | 0,68 |
 | S&P 500 (rendement total) | 14,1 % | −31,7 % | 16,2 % | 0,77 |
 | MSCI World (rendement total) | 12,2 % | −32,7 % | 15,7 % | 0,68 |
 
 <sub>Exécution de référence : `--start 2010-01-01 --end 2026-06-30`, période effective 2010-01-08 → 2026-07-03,
-145 des 147 constituants évalués (voir [AGENTS.md](AGENTS.md) pour savoir pourquoi 145 et comment reproduire le résultat).
+144 des 147 constituants évalués (voir [AGENTS.md](AGENTS.md) pour savoir pourquoi 144 et comment reproduire le résultat).
 Les chiffres changent si vous modifiez `--end` : fixez-le donc toujours.
 Les données du MSCI World (approximé par URTH) commencent le 2012-01-13 ; ses chiffres couvrent 2012-2026, et non 2010-2026.</sub>
 
